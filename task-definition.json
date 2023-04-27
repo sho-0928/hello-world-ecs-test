@@ -33,6 +33,7 @@
         "family": "hello-world-ecs-test-task-definition",
         "executionRoleArn": "arn:aws:iam::201288107563:role/ecsTaskExecutionRole",
         "networkMode": "awsvpc",
+        "revision": 1,
         "volumes": [],
         "placementConstraints": [],
         "runtimePlatform": {
